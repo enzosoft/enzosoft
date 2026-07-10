@@ -2,7 +2,7 @@
 
 **`Futuro Dev`**
 
-Me chamo Enzo Dorigon Leandrini, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Externato. Atualmente, estou cursando Ciência da Computação na UNIFEOB. Gosto muito de tecnologia e compartilho meu conhecimento através do meu perfil no LinkedIn "[Enzo Dorigon Leandrini](https://www.linkedin.com/in/enzo-dorigon-leandrini-7633861a3/)", e também através do GitHub.
+Me chamo Enzo Dorigon Leandrini, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio no Externato. Atualmente, estou cursando Ciência da Computação na UNIFEOB. Gosto muito de tecnologia e compartilho meu conhecimento através do meu perfil no LinkedIn "[Enzo Dorigon Leandrini](https://www.linkedin.com/in/enzo-dorigon-leandrini-7633861a3/)", e também através do GitHub.
 
 <p align="left">
   <a href="https://github.com/enzosoft?tab=followers">
